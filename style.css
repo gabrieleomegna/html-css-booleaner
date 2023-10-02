@@ -1,0 +1,10 @@
+header {
+    background-color: #539fec;
+    background-image: url(img/pattern.png);
+    background-size: contain;
+}
+#logo_booleaner {
+    width: 150px;
+    padding-top: 30px;
+
+}
