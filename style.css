@@ -33,3 +33,19 @@ header {
 .text_highlighted {
     background-color: yellow;
 }
+.article_closing_image {
+    color: white;
+    width: 20%;
+    padding-bottom: 150px;
+    padding-top: 10px;
+    padding-left: 20px;
+    margin-top: 10px;
+}
+#bg_image_n1{
+    background-image: url(img/monitor.jpg);
+    background-size: contain;
+}
+#bg_image_n2 {
+    background-image: url(img/graph.jpg);
+    background-size: contain;
+}
