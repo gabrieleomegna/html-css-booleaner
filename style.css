@@ -17,3 +17,19 @@ header {
 .colore_font_chiaro {
     color: gray;
 }
+.prima_colonna{
+    width: 25%;
+}
+.seconda_colonna {
+    width: 25%;
+}
+.table_title{
+    background-color: #539fec;
+    color: white;
+}
+.color_tr {
+    background-color: aqua;
+}
+.text_highlighted {
+    background-color: yellow;
+}
