@@ -1,7 +1,10 @@
 header {
     background-color: #539fec;
     background-image: url(img/pattern.png);
-    background-size: contain;
+    background-size: 300px, contain;
+}
+table{
+    border-collapse: collapse;
 }
 #logo_booleaner {
     width: 150px;
@@ -11,16 +14,13 @@ header {
     color: aqua;
 }
 .scrittura_piccola{
-    font-size: 10px;
+    font-size: .7rem;
     margin-top: 0%;
 }
 .colore_font_chiaro {
     color: gray;
 }
-.prima_colonna{
-    width: 25%;
-}
-.seconda_colonna {
+.width_25{
     width: 25%;
 }
 .table_title{
